@@ -2,6 +2,9 @@
 KirkYagami/KirkYagami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![LinkedIn banner](https://user-images.githubusercontent.com/106730135/210165772-977e7977-9204-48ba-b85c-efb70617eb18.png)
+
 # About Me
 Hi there! I'm Nikhil Sharma, a 2022 graduate from Sreenidhi Institute of Science and Technology. I am currently enrolled in an online PGP in Cloud Computing offered by Simplilearn in collaboration with Caltech.
 

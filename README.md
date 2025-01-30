@@ -25,4 +25,4 @@ In addition to my technical skills, I am highly organized, detail-oriented, and 
 - **DevOps:** Docker, GCP, AWS
 
 # Contact me
-You find me on [LinkedIn](https://www.linkedin.com/in/-nikhil/) or reach out me via Email:-> er.nikhilsharma7@gmail.com 
+You can find me on [LinkedIn](https://www.linkedin.com/in/-nikhil/) or reach out me via Email: er.nikhilsharma7@gmail.com 

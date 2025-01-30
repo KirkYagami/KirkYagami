@@ -1,9 +1,12 @@
 <!---
 KirkYagami/KirkYagami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![LinkedIn banner](https://user-images.githubusercontent.com/106730135/210165772-977e7977-9204-48ba-b85c-efb70617eb18.png)
 --->
 
-![LinkedIn banner](https://user-images.githubusercontent.com/106730135/210165772-977e7977-9204-48ba-b85c-efb70617eb18.png)
+
+![image](https://github.com/user-attachments/assets/494ca5fe-534d-4261-9f41-0cc34c5c5f0c)
+
 
 # About Me
 Hi there! I'm Nikhil Sharma, a 2022 graduate from Sreenidhi Institute of Science and Technology. I am a Google Certified Professional Data Engineer, At present I'm working on and have completed many projects which include Agentic AI, RAG, running LLMs locally, chatbots, creating knowledge graphs and so on.

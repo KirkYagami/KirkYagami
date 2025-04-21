@@ -21,8 +21,8 @@ In addition to my technical skills, I am highly organized, detail-oriented, and 
 - **Programming Languages:** Python, SQL Scripting, Cypher Scripting
 - **Backend:** Django, Flask
 - **Data Analytics & Visualization:** Pandas, Polars, Numpy, Matplotlib, Seaborn, Power BI
-- **AI:** Generative AI, Prompt Engineering, AI Frameworks, Autogen, LangChain, RAG, LLMs, OpenAI, Anthropic, google-gemini, Cohere, Inferencing Platforms
-- **ML:** ML Algorithms, Natural Language Processing (NLP), Hyperparameter Tuning, Model Evaluation
+- **AI:** Generative AI, Prompt Engineering, AI Frameworks, Autogen, LangChain, LangGraph, RAG, LLMs, OpenAI, Anthropic, google-gemini, Cohere, Inferencing Platforms
+- **ML:** ML Algorithms, Natural Language Processing (NLP), Hyperparameter Tuning, Model Evaluation, Model Deployment
 - **Cloud Technologies:** GCP, AWS, Cloud Infrastructure Management
 - **Databases:** MySQL, PostgreSQL, Neo4J-Graph Database
 - **DevOps:** Docker, GCP, AWS

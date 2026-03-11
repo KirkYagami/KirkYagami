@@ -167,14 +167,18 @@ fun_fact:    "Sirius Award 2024 @ Revature for outstanding performance 🏆"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KirkYagami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=e2e8f0&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirkYagami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0&langs_count=8" />
+<!-- Using github-readme-stats self-hosted alternative via anuraghazra (most reliable instance) -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KirkYagami&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=e2e8f0&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirkYagami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0&langs_count=8&cache_seconds=86400" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KirkYagami&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd" />
+<!-- Streak stats — most reliable public instance -->
+<img src="https://streak-stats.demolab.com?user=KirkYagami&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=93c5fd&sideLabels=93c5fd&dates=64748b" />
 
 </div>
+
+> 💡 **Note:** Stats cards are served by third-party APIs and may occasionally take a moment to load. If they appear broken, a hard refresh (Ctrl+Shift+R) usually fixes it.
 
 ---
 
